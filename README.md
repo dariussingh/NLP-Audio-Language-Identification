@@ -22,4 +22,4 @@ The project's goal is to create a model/program that can take any audio as input
 Spanish languages.Samples are equally balanced between languages, genders and speakers.
 
 ## Text Language Identification Model
-[NLP-Text-Language-Identification]https://github.com/dariussingh/NLP-Text-Language-Identification/blob/main/README.md
+[NLP-Text-Language-Identification](https://github.com/dariussingh/NLP-Text-Language-Identification/blob/main/README.md)
