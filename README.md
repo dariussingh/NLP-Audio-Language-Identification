@@ -4,7 +4,7 @@
 In this project, we create an Artificial Neural Network (ANN) that takes in audio as input and identifies the language the input is in.
 We implement this using Python and its various open-source libraries that allow us to preprocess our data, create the model, train the model, test the model and deploy the model.
 
-[Project Report](https://drive.google.com/file/d/1Z9MHXGBn1CNUe3s35JjedjUo6VF0pccy/view?usp=sharing)
+[Project Report](https://github.com/dariussingh/NLP-Audio-Language-Identification/blob/main/doc/NLP%20for%20Language%20Identification%20Report%20%5BDarius%20Singh%20(1720130)%5D.pdf)
 
 ## Introduction
 Natural language refers to how humans communicate with one another. Namely, speech and text. The task of identifying natural language appears frequently in web applications. 
